@@ -1,0 +1,31 @@
+{
+  "name": "securestorage",
+  "version": "1.0.0",
+  "description": "major",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saagar7200/securefile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0",
+    "mongoose": "^6.2.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "prettier": "2.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/saagar7200/securefile/issues"
+  },
+  "homepage": "https://github.com/saagar7200/securefile#readme"
+}
